@@ -39,11 +39,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/_data/fawad-new2.jpg.jpeg"
+avatar: "/_data/fawad-new2.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: "/_data/fawad-new2.jpg.jpeg"
+# title-img: "/_data/fawad-new2.jpg"
 
 # --- Background colour/image options --- #
 
